@@ -119,6 +119,7 @@ EXAMPLE 2: [a-f0-9]{3} = the position is valid if:
 **NOTE** each quantifier is only 1 character and each must be in the valid ranges specified in sequence
 
 ## Author
+Edin Hurem - Web Developer student at UNCC boocamp. 
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
 
